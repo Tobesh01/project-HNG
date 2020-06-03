@@ -1,2 +1,2 @@
 # project-HNG
-Steps to proceed tothe next stage on hngi7
+Steps taken to proceed to the next stage on hngi7
